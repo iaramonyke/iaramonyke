@@ -6,7 +6,7 @@
 </div>
    
 </br>  
-  <img src="https://github.com/iaramonyke/iaramonyke/assets/99852137/2e36c7c4-93ed-4231-ba8e-e23fe8a23bb6" align="right" width="300px"/>
+  <img src="https://github.com/iaramonyke/iaramonyke/assets/99852137/7a49bad6-9fc7-4869-aee1-2e839eeca43a" align="right" width="300px"/>
   <h2>O que eu sei é isso aqui ó</h2>
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>
