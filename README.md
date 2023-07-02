@@ -1,4 +1,4 @@
- <h1 align="center">oioioi, pode me chamar de iarão :))</h1> 
+ <h1 align="center">oioioi, pode me chamar de iarão :)) </h1> 
 
 <br>
 <br>
@@ -13,14 +13,16 @@
 
   <!--  <img src="https://github.com/iaramonyke/iaramonyke/assets/99852137/d00b91f0-9e99-45f8-9ae7-9ddc206842b4" align="right" width="450px"/> -->
   <h2>O que eu sei é isso aqui ó</h2>
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>
-  
+   
+<div style= "display: inline_block"><br>  
+<img align= "center" src= "https://img.shields.io/badge/C%23-5e1093?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img align= "center"src="https://img.shields.io/badge/CSS-1756d3?&style=for-the-badge&logo=css3&logoColor=white" /> <img align= "center" src="https://img.shields.io/badge/Figma-00a809?style=for-the-badge&logo=figma&logoColor=white"/> <img align= "center" src="https://img.shields.io/badge/HTML-e66200?style=for-the-badge&logo=html5&logoColor=white" /> <img align= "center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img align= "center" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/> <img align= "center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</div>
+
 <h2>Caso queira me contatar</h2>
 
-<div>
-<a href = "mailto:immonyke@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
- <a href="https://instagram.com/iaramonyke" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+<div style= "display: inline_block"><br> 
+<a href = "mailto:immonyke@gmail.com"><img align= "center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
+<a href="https://instagram.com/iaramonyke" target="_blank"><img align= "center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
 
 <br>
