@@ -22,5 +22,12 @@
 <a href = "mailto:immonyke@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
  <a href="https://instagram.com/iaramonyke" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
+
+<br>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iaramonyke&label=Profile%20views&color=4515b7&style=background:#3630a3;color:white;" alt="IaraMonyke" /> </p>
+  
+<br>
+
    
 <!-- ![Snake animation](https://github.com/iaramonyke/iaramonyke/blob/output/github-contribution-grid-snake.svg) -->
