@@ -27,9 +27,10 @@
 
 <br>
 
+ ![Snake animation](https://github.com/iaramonyke/iaramonyke/blob/output/github-contribution-grid-snake.svg) 
+
+<br>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iaramonyke&label=Profile%20views&color=4515b7&style=background:#3630a3;color:white;" alt="IaraMonyke" /> </p>
   
 <br>
-
-   
-<!-- ![Snake animation](https://github.com/iaramonyke/iaramonyke/blob/output/github-contribution-grid-snake.svg) -->
