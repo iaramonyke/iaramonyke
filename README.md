@@ -12,7 +12,7 @@
 <br>
 
   <!--  <img src="https://github.com/iaramonyke/iaramonyke/assets/99852137/d00b91f0-9e99-45f8-9ae7-9ddc206842b4" align="right" width="450px"/> -->
-  <h2>O que eu sei é isso aqui ó</h2>
+  <h2>Skills</h2>
    
 <div style= "display: inline_block"><br>  
 <img align= "center" src= "https://img.shields.io/badge/C%23-5e1093?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img align= "center"src="https://img.shields.io/badge/CSS-1756d3?&style=for-the-badge&logo=css3&logoColor=white" /> <img align= "center" src="https://img.shields.io/badge/Figma-00a809?style=for-the-badge&logo=figma&logoColor=white"/> <img align= "center" src="https://img.shields.io/badge/HTML-e66200?style=for-the-badge&logo=html5&logoColor=white" /> <img align= "center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img align= "center" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/> <img align= "center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
